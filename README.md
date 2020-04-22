@@ -1,13 +1,13 @@
 # PhDThesisWork
 Links to the implementations of models, software tools, and cases studies for each paper included in the thesis.
 
-# CPN Models:
+# CPN Model:
 
 1. [A CPN Model of the Distributed Storage System](https://home.hvl.no/ansatte/lmkr/DistributedStorage.xml)
 
 2. [A CPN Model of the Single-decree Paxos Protocol](http://dkan.isp.uni-luebeck.de/story/automated-tcs-gen-cpns)
 
-# System Under Tests 
+# System Under Test 
 
 1. [A Go Implementation of the Distriubted Storage System](https://github.com/wruiwr/distributedstorage)
 
