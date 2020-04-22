@@ -21,6 +21,6 @@ Links to the implementations of models, software tools, and cases studies for ea
 
 2. [Modbat 3.4](https://github.com/cyrille-artho/modbat/tree/3.4)
 
-# other software tools
+# other software tool
 
 1. [Test Execution Engine](https://github.com/selabhvl/gotestgen) 
